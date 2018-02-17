@@ -45,7 +45,7 @@
 					<img src="fotos/link_noiva.jpg" alt="Aline" />
 				</div>
 				<div class="dados">
-					<h3>Aline Luz Mesquita</h3>
+					<h3>Aline xxx xxxx</h3>
 					<p>22 anos</p>
 					<p>Signo gêmeos - No signo de Gêmeos, podemos encontrar a manifestação viva do poder da linguagem. Vive em sua própria mente, dialogando e especulando. Elabora raciocínios brilhantes, trazendo luz para outras pessoas. Estas são características de quem possui o signo de Gêmeos no Mapa Astral, não apenas de geminianos, como popularmente se chama quem nasceu com Sol em Gêmeos.</p>
 					<p>Gosta de estudar, de um bom shopping, não consegue parar um minuto, troca tudo por um livro e tem um gênio beeeeeeem difícil de lidar.</p>
@@ -57,7 +57,7 @@
 					<img src="fotos/link_noivo.jpg" alt="Diogo" />
 				</div>
 				<div class="dados">
-					<h3>Diogo Henrique Martins Francisco</h3>
+					<h3>Diogo xxx xxx xxx</h3>
 					<p>25 anos</p>
 					<p>Signo: câncer - Em Câncer, encontramos a ligação às origens. Este signo tem o poder de fazer com que a maioria das pessoas se sinta à vontade na sua presença. E adora mergulhar fundo no mistério dos sentimentos humanos. Estas são características de quem possui o signo de Câncer no Mapa Astral, não apenas de cancerianos, como popularmente se chama quem nasceu com Sol em Câncer.</p>
 					<p>Gosta de dormir, de animais, vibra pelo Palmeiras, troca tudo por um cinema e odeia estudar.</p>

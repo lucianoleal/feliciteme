@@ -48,7 +48,7 @@
 				<!-- SEP -->
 				<h3>Lista de Presentes</h3>
 				<p>Precisamos da sua ajuda para equipar nossa humilde residência! Depois, você será nosso convidado especial para saborear um jantar bem gostoso preparado com cada item da cozinha!</p>
-				<p>Para ver nossa lista de presentes,<a href="https://www.querodecasamento.com.br/lista-de-casamento/alinemesquita-diogomartins/"> clique aqui.</a></p>
+				<p>Para ver nossa lista de presentes,<a href="https://www.querodecasamento.com.br/lista-de-casamento/xxxx-xxxx/"> clique aqui.</a></p>
 				<!-- SEP -->
 				<h3>Cerimônia Religiosa</h3>
 				<p>Depois disso, não dá mais para voltar atrás. Assinou, tá assinado!</p>

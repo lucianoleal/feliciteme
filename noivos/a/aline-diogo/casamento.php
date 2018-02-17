@@ -55,8 +55,8 @@
 				<div class="enf_bot_dir"></div>
 			</div>
 			<div class="texto">
-				<p>Claudia Regina Luz Mesquita</p>
-				<p>Alexandre Sales Mesquita</p>
+				<p>Claudia xxxx xxxx xxxx</p>
+				<p>Alexandre xxxx xxxx</p>
 			</div>
 			<!-- SEP -->
 			<div class="enfeite">
@@ -71,8 +71,8 @@
 				<div class="enf_bot_dir"></div>
 			</div>
 			<div class="texto">
-				<p>Tânia Regina Martins Francisco</p>
-				<p>Rui Antônio Francisco</p>
+				<p>Tânia xxxx xxx</p>
+				<p>Rui xxxxx xxxx</p>
 			</div>
 			<!-- SEP -->
 			<div class="enfeite">
@@ -122,7 +122,7 @@
 				<div class="enf_bot_dir"></div>
 			</div>
 			<div class="texto">
-				<p>Até o dia 28 de Março - Tel: 3231-4312</p>
+				<p>Até o dia 28 de Março - Tel: xxxx-xxxx</p>
 			</div>
 		</section>
 		<!--   FOOTER   -->

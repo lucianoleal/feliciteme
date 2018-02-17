@@ -40,7 +40,7 @@
 			<div class="texto">
 				<h3>Lista de Presentes</h3>
 				<p>Precisamos da sua ajuda para equipar nossa humilde residência! Depois, você será nosso convidado especial para saborear um jantar bem gostoso preparado com cada item da cozinha!</p>
-				<p>Para ver nossa lista de presentes,<a href="https://www.querodecasamento.com.br/lista-de-casamento/alinemesquita-diogomartins/"> clique aqui.</a></p>
+				<p>Para ver nossa lista de presentes,<a href="https://www.querodecasamento.com.br/lista-de-casamento/xxxx-xxxx/"> clique aqui.</a></p>
 				<!-- SEP -->
 				<h3>Ajude em nossa Lua de Mel!</h3>
 				<p>Depois de tanto gasto fica difícil sobrar dinheiro para viajar, não é mesmo?? Qualquer ajuda é sempre muito bem-vinda!!</p>
@@ -58,8 +58,8 @@
 				<div class="enf_bot_dir"></div>
 			</div>
 			<div class="texto">
-				<p><span>Aline</span> R. Ilda do Amaral Cussiol, 77 - Campolim</p>
-				<p><span>Diogo</span> R. Milton Ribeiro Pinto, 30 - Jardim Astro</p>
+				<p><span>Aline</span> R. Ilda xxxxx, xxx - Campolim</p>
+				<p><span>Diogo</span> R. Milton xxxx xxx, xxx - Jardim Astro</p>
 			</div>
 		</section>
 
