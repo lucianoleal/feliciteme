@@ -1,0 +1,3 @@
+<script>
+		//codigo google
+</script>
