@@ -1,0 +1,117 @@
+/* =============================
+
+
+	ALINHAMENTO, POSIÇÃO, TAMANHO
+
+
+   ============================= */
+
+#construcao
+{
+	padding: 1em;
+	text-align: center;
+}
+
+	#construcao
+
+
+#feliciteme, section #feliciteme
+{
+	text-align: center;
+}
+
+	#feliciteme a
+	{
+	}
+
+		#feliciteme a img
+		{
+			opacity: .4;
+		}
+
+		#feliciteme a:hover img
+		{
+			opacity: 1;
+		}
+
+
+#galeria
+{
+	margin: 1em 0;
+	padding: 0 1em;
+}
+
+	#galeria img
+	{
+		width: 100%;
+	}
+		@media screen and (min-width:  400px) { #galeria img	{	margin: 0 5%;	width: 90%;	}	}
+		@media screen and (min-width:  450px) { #galeria img	{	margin: 0 10%;	width: 80%;	}	}
+		@media screen and (min-width:  500px) { #galeria img	{	margin: 0 15%;	width: 70%;	}	}
+		@media screen and (min-width:  550px) { #galeria img	{	margin: 0;	width: 100%;	}	}
+		@media screen and (min-width:  900px) { #galeria img	{	margin: 0 5%;	width: 90%;	}	}
+		@media screen and (min-width: 1000px) { #galeria img	{	margin: 0 10%;	width: 80%;	}	}
+
+	#galeria .noscript
+	{
+		display: none;
+	}
+
+	#galeria .desktop
+	{
+		display: none;
+	}
+		@media screen and (min-width: 550px) {
+			#galeria .desktop	{	display: inline;	}
+			#galeria .noscript	{	display: none;		}
+		}
+
+	#galeria .mobile
+	{
+	}
+		@media screen and (min-width: 550px) { #galeria .mobile	{	display: none;	}	}
+
+
+
+/* =============================
+
+
+	CORES / FONTES
+
+
+   ============================= */
+
+#feliciteme
+{
+}
+	#feliciteme a img
+	{
+		width: 8em;
+	}
+
+body
+{
+	background: url('link_fundo_01.jpg');
+	color: #9d9d9c;
+	font-family: 'Cabin', sans-serif;
+	font-size: 16px; 
+}
+
+#galeria
+{
+}
+
+	#galeria a
+	{
+	}
+
+	#galeria img
+	{
+		padding: .5em;
+	}
+
+	#galeria a:hover img
+	{
+		border: .1em solid #9d9d9c;
+		padding: .4em;
+	}
